@@ -1,0 +1,16 @@
+{
+    "latest": "1.0.1",
+    "versions": [
+      {
+        "version": "1.0.1",
+        "url": "https://raw.githubusercontent.com/username/esp32-ota-example/main/firmware_v1.0.1.bin",
+        "changelog": "LED blinking speed modified."
+      },
+      {
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/username/esp32-ota-example/main/firmware_v1.0.0.bin",
+        "changelog": "Initial version."
+      }
+    ]
+  }
+  
