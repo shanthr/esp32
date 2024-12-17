@@ -2,6 +2,11 @@
     "latest": "1.0.1",
     "versions": [
       {
+        "version": "1.0.2",
+        "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.2.ino.bin",
+        "changelog": "LED blinking speed modified5000."
+      }
+        {
         "version": "1.0.1",
         "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.1.ino.bin",
         "changelog": "LED blinking speed modified."
@@ -11,6 +16,7 @@
         "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.0.ino.bin",
         "changelog": "Initial version."
       }
+        
     ]
   }
   
