@@ -8,7 +8,7 @@
       },
       {
         "version": "1.0.0",
-        "url": "https://raw.githubusercontent.com/username/esp32-ota-example/main/firmware_v1.0.0.ino.bin",
+        "url": "https://github.com/shanthr/esp32/raw/refs/heads/main/firmware_v1.0.0.ino.bin",
         "changelog": "Initial version."
       }
     ]
