@@ -3,7 +3,7 @@
     "versions": [
       {
         "version": "1.0.1",
-        "url": "https://raw.githubusercontent.com/username/esp32-ota-example/main/firmware_v1.0.1.ino.bin",
+        "url": "https://github.com/shanthr/esp32/raw/refs/heads/main/firmware_v1.0.1.ino.bin",
         "changelog": "LED blinking speed modified."
       },
       {
