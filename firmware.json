@@ -3,12 +3,12 @@
     "versions": [
       {
         "version": "1.0.1",
-        "url": "https://github.com/shanthr/esp32/raw/refs/heads/main/firmware_v1.0.1.ino.bin",
+        "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.1.ino.bin",
         "changelog": "LED blinking speed modified."
       },
       {
         "version": "1.0.0",
-        "url": "https://github.com/shanthr/esp32/raw/refs/heads/main/firmware_v1.0.0.ino.bin",
+        "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.0.ino.bin",
         "changelog": "Initial version."
       }
     ]
