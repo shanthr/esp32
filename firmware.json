@@ -1,12 +1,17 @@
 {
-    "latest": "1.0.0",
+    "latest": "1.0.1",
     "versions": [
         
       {
+        "version": "1.0.1",
+        "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.1.ino.bin",
+        "changelog": "Initial version."
+      },
+        {
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.0.ino.bin",
         "changelog": "Initial version."
-      }
+        }
         
     ]
   }
