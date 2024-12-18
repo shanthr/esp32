@@ -1,6 +1,11 @@
 {
-    "latest": "1.0.3",
+    "latest": "1.0.4",
     "versions": [
+        {
+        "version": "1.0.4",
+        "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.4.ino.bin",
+        "changelog": "pin change"
+      },
         {
         "version": "1.0.3",
         "url": "https://raw.githubusercontent.com/shanthr/esp32/main/firmware_v1.0.3.ino.bin",
